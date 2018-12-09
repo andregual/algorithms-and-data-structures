@@ -40,7 +40,6 @@ void shaker_sort(int *data, int first, int one_after_last)
 }
 
 
-
 int main(int argc, char **argv)
 {
     int numbers[] = {3,4,6,1,2,67,8,1,2,4,5,1,24,15,35,12,21};
