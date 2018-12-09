@@ -3,4 +3,4 @@ Repository for Algorithms and Data Structures
 
 
 ## Computational complexity summary
-![alt text](cc.png "Title")
+![Computational complexity summary](cc.png "Computational complexity summary")
